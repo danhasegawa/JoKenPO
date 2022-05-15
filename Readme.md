@@ -1,0 +1,1 @@
+Criando um projeto em Python, no qual jogamos JoKenPo com o computador.
